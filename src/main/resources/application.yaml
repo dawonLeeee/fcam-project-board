@@ -26,6 +26,5 @@ spring:
       properties:
         hibernate.format_sql: true
         hibernate.default_batch_size: 100
-    h2.console.enabled: false
     sql.init.mode: always
 
